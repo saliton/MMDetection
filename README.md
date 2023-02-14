@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/MMDetection/blob/main/mmdet.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/MMDetection/blob/main/mmdet.ipynb)
 
 # Google Colabで物体認識を簡単に試す
 
